@@ -8,7 +8,8 @@
 ##### 目前專案
 ```diff
 DYBTS(Discord機器人)
-https://dybts.ml(官網)
+JDYBTS(Discord機器人)
+https://dybts.xyz(官網)
 ```
 
 ##### 團隊簡介
